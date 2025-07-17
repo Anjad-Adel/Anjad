@@ -27,12 +27,18 @@ header {
 nav a {
   margin: 0 15px;
   text-decoration: none;
-  color: #555;
+  color: #000;
+  font-size: 22px;
   font-weight: 500;
+  /* font-family: Arial, sans-serif; */
 }
 
 nav a:hover {
   color: #000;
+}
+
+.navbar-brand {
+  font-weight: bold;
 }
 
 /* Intro Section */
